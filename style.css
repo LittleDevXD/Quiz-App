@@ -61,6 +61,7 @@ body.wrong {
 
 .btn:hover {
     border-color: black;
+    background-color: hsl(var(--hue-neutral), 100%, 70%);
 }
 
 .btn.correct {
